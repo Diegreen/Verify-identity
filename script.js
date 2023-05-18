@@ -19,3 +19,4 @@ function verify(idade, nome, estaAcompanhado) {
 
 console.log(verify(idade, nome, estaAcompanhado))
 
+
